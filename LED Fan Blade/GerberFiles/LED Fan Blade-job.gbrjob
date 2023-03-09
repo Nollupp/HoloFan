@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(7.0.0)"
     },
-    "CreationDate": "2023-03-03T17:04:14-06:00"
+    "CreationDate": "2023-03-08T22:11:07-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -50,7 +50,7 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "LED Fan Blade-+5V.gbr",
+      "Path": "LED Fan Blade-+3_3V.gbr",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
@@ -130,20 +130,20 @@
       "Type": "Dielectric",
       "Thickness": 1.24,
       "Material": "FR4",
-      "Name": "GND/+5V",
-      "Notes": "Type: dielectric layer 2 (from GND to +5V)"
+      "Name": "GND/+3.3V",
+      "Notes": "Type: dielectric layer 2 (from GND to +3.3V)"
     },
     {
       "Type": "Copper",
       "Thickness": 0.035,
-      "Name": "+5V"
+      "Name": "+3.3V"
     },
     {
       "Type": "Dielectric",
       "Thickness": 0.1,
       "Material": "FR4",
-      "Name": "+5V/B.Cu",
-      "Notes": "Type: dielectric layer 3 (from +5V to B.Cu)"
+      "Name": "+3.3V/B.Cu",
+      "Notes": "Type: dielectric layer 3 (from +3.3V to B.Cu)"
     },
     {
       "Type": "Copper",
