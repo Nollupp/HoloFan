@@ -1,4 +1,4 @@
-1832060822793776
+1837096022157084
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -4389,6 +4389,20 @@ ButtonSMD
 2
 2
 FanbladeFootprints
+Cap_603
+
+
+0
+2
+2
+FanbladeFootprints
+Inductor_Sunlord
+
+
+0
+2
+2
+FanbladeFootprints
 MODULE_ESP32-C3-WROOM-02-H4
 
 
@@ -4409,6 +4423,13 @@ QFN-40_EP_4.85x5.15_Pitch0.4mm
 0
 48
 41
+FanbladeFootprints
+Resistor_603
+
+
+0
+2
+2
 FanbladeFootprints
 TYPE-C-31-M-14
 Korean Hroparts Elec, Power only USB connector supporting up to 3A
