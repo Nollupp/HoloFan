@@ -1,0 +1,6 @@
+{
+    "idf.adapterTargetName": "esp32c3",
+    "files.associations": {
+        "pretty_effect.h": "c"
+    }
+}
